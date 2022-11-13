@@ -1,0 +1,17 @@
+.navbar-expand-lg .navbar-collapse#navbarNav{
+    display: block;
+}
+.hero {
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    margin-top: 10px;
+}
+h2{
+    font-size: 100px;
+    color: white;
+    text-shadow: rgb(rgb(31, 30, 30), green, blue);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
